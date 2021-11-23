@@ -50,7 +50,7 @@ class Solution:
         return root
 
 
-class Solutio2n(object):
+class Solution2(object):
     """
 
     我们不断的遍历两个链表，每次遍历都将链表a和链表b的值相加，再赋给链表a。如果有进位我们还需要记录一个进位标志。
