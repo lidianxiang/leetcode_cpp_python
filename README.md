@@ -126,6 +126,7 @@
 |1290|[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/1290-%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%95%B4%E6%95%B0.cpp)|Easy|模拟法、位运算|
 |剑指 offer06|[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87%20offer06-%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.cpp)|Easy|递归法|
 |剑指 offer22|[链表中的倒数第K个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87%20offer22-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.cpp)|Easy|快慢指针|
+|程序员面试金典|[02.03.删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E9%93%BE%E8%A1%A8/%E9%9D%A2%E8%AF%9502.03.%E5%88%A0%E9%99%A4%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.py)|Easy||
 
 ### 3.树
 |NO.|Title|Solution|Difficulty|Tip|
