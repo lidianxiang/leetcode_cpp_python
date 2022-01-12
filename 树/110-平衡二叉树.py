@@ -45,7 +45,7 @@ class Solution:
     def isBalanced(self,root):
         if not root:
             return True
-        return abs(self.height(root.left) - self.height(root.right)) \
+        return abs(self.height(root.left) - self.height(root.right)) <= 1 \
                and self.isBalanced(root.left) and self.isBalanced(root.right)
 
     def height(self,node):
