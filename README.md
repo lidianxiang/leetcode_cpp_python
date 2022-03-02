@@ -366,6 +366,7 @@
 |74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/74-%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.py)|Medium|二分查找|
 |81|[搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/81-%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84II.py)|Medium|二分查找|
 |162|[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/162-%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.py)|Medium|二分查找|
+|240|[搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/240-%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5II.py)|Medium|二分查找|
 
 
 ### 10. 滑动窗口
