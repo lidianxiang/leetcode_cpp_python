@@ -277,7 +277,7 @@
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:----------:|:---------:|:----:|:----:|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97/29-%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.py)|Medium|位运算|
-|89|[格雷编码](https://leetcode-cn.com/problems/gray-code/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/89-%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.cpp)|Medium|位运算|
+|89|[格雷编码](https://leetcode-cn.com/problems/gray-code/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/89-%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.cpp)<br/>[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97/89-%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.py)|Medium|位运算|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/136-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp)|Easy|位运算|
 |137|[只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/137-%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97II.cpp)|Medium|位运算|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/190-%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.cpp)|Easy|位运算|
