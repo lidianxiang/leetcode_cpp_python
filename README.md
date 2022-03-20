@@ -261,6 +261,7 @@
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/46-%E5%85%A8%E6%8E%92%E5%88%97.cpp)<br/>[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%9B%9E%E6%BA%AF/46-%E5%85%A8%E6%8E%92%E5%88%97.py)|Medium|回溯|
 |47|[全排列II](https://leetcode-cn.com/problems/permutations-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/47-%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
 |51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/51-N%E7%9A%87%E5%90%8E.cpp)|Hard|回溯|
+|60|[排列序列](https://leetcode-cn.com/problems/permutation-sequence/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%9B%9E%E6%BA%AF/60-%E7%AC%ACK%E4%B8%AA%E6%8E%92%E5%88%97.py)|Hard|回溯|
 |77|[组合](https://leetcode-cn.com/problems/combinations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/77-%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
 |78|[子集](https://leetcode-cn.com/problems/subsets/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/78-%E5%AD%90%E9%9B%86.cpp)<br/>[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%9B%9E%E6%BA%AF/78-%E5%AD%90%E9%9B%86.py)|Meidum|回溯|
 |79|[单词搜索](https://leetcode-cn.com/problems/word-search/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/79-%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.cpp)|Medium|回溯|
