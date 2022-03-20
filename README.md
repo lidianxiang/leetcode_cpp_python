@@ -262,7 +262,7 @@
 |47|[全排列II](https://leetcode-cn.com/problems/permutations-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/47-%E5%85%A8%E6%8E%92%E5%88%97.cpp)|Medium|回溯|
 |51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/51-N%E7%9A%87%E5%90%8E.cpp)|Hard|回溯|
 |77|[组合](https://leetcode-cn.com/problems/combinations/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/77-%E7%BB%84%E5%90%88.cpp)|Medium|回溯|
-|78|[子集](https://leetcode-cn.com/problems/subsets/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/78-%E5%AD%90%E9%9B%86.cpp)|Meidum|回溯|
+|78|[子集](https://leetcode-cn.com/problems/subsets/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/78-%E5%AD%90%E9%9B%86.cpp)<br/>[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%9B%9E%E6%BA%AF/78-%E5%AD%90%E9%9B%86.py)|Meidum|回溯|
 |79|[单词搜索](https://leetcode-cn.com/problems/word-search/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/79-%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.cpp)|Medium|回溯|
 |90|[子集II](https://leetcode-cn.com/problems/subsets-ii/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/90-%E5%AD%90%E9%9B%86II.cpp)|Medium|回溯|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%9B%9E%E6%BA%AF/93-%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.cpp)|Medium|回溯|
