@@ -263,6 +263,7 @@
 |937|[重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/937-%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6.cpp)|Easy|stable_sort|
 |978|[最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/978-%E6%9C%80%E9%95%BF%E6%B9%8D%E6%B5%81%E5%AD%90%E6%95%B0%E7%BB%84.cpp)|Medium|滑动窗口|
 |1108|[IP地址无效化](https://leetcode.cn/problems/defanging-an-ip-address/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1108-IP%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96.py)|Easy||
+|1143|[最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1143-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.py)|Medium|动态规划|
 |剑指 offer-48|[最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%89%91%E5%80%BCoffer-48-%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|Medium|滑动窗口|
 
 ### 5. 回溯
