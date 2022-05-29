@@ -3,7 +3,7 @@
 ### 1.数组
 |NO.|Title|Solution|Difficulty|Tip|
 |:---:|:-----:|:------:|:------:|:---:|
-|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Easy|Mapping|
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|Easy||
 |11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E6%95%B0%E7%BB%84/11-%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.py)|Medium|双指针|
 |15|[三数之和](https://leetcode-cn.com/problems/3sum/)| [C++](https://github.com/lidianxiang/leetcode_CPP/blob/master/%E6%95%B0%E7%BB%84/15-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) <br />[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E6%95%B0%E7%BB%84/15-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)|Medium|排序+双指针|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[Python](https://github.com/lidianxiang/leetcode_cpp_python/blob/main/%E6%95%B0%E7%BB%84/16-%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py)|Medium|排序+双指针|
